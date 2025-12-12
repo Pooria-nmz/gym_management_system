@@ -4,7 +4,7 @@
 This project is developed as part of the Software Engineering Lab course.
 It represents a Gym Management System designed and documented during weeks 1 to 9.
 ## Project Scope
-This project focuses on analysis, design, and documentation rather than full implementation.
+This project focuses on analysis, design, and documentation rather than full implementation..
 
 
 ## 1. Project Description
