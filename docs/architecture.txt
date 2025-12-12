@@ -1,0 +1,1 @@
+This file describes the high-level architecture of the Gym Management System.
