@@ -3,6 +3,9 @@
 
 This project is developed as part of the Software Engineering Lab course.
 It represents a Gym Management System designed and documented during weeks 1 to 9.
+## Project Scope
+This project focuses on analysis, design, and documentation rather than full implementation.
+
 
 ## 1. Project Description
 The system manages gym members, subscriptions, class reservations, trainers, and messaging between trainers and members.
@@ -55,3 +58,5 @@ All design, testing, and analysis documents were prepared according to the cours
 
 ## 9. Repository Link
 This repository contains all documents and materials related to the project.
+
+
